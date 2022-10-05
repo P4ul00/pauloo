@@ -1,6 +1,8 @@
 import Link from "next/link";
+import Topo from "./topo"
+import Rodape from "./rodape"
 
-export default function pagina2(){
+function pagina2(){
     return(
         <>
            <Topo/>
