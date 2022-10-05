@@ -1,7 +1,8 @@
+import Link from "next/link";
 function Rodape(){
     return(
         <>
-        <p>Rodape</p>
+            <Link href="http://www.google.com">Google</Link>
         </>
     )
 }

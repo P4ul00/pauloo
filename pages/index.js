@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Topo from "./topo"
 import Rodape from "./rodape"
 
