@@ -1,11 +1,11 @@
 import Topo from './topo'
 import Rodape from './rodape'
-//import Link from 'next/link'
+
 export default function pagina3(){
     return(
         <>
            <Topo/>
-            <h3>OK</h3>
+            <h3>pagina3</h3>
            <Rodape/>
         </>
     )
