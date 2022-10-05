@@ -1,13 +1,12 @@
-import Link from "next/link";
-import Topo from "./topo"
-import Rodape from "./rodape"
-
-function Home(){
-  return(
-<>
- <Topo/>
- <p> pagina inicial</p>
- <Rodape/>
-</>
+//import Link from 'next/link'
+import Topo from './topo'
+import Rodape from './rodape'
+export default function Home() {
+  return (
+    <>
+     <Topo/>
+     <h3>aaa</h3>
+     <Rodape/>
+    </>
   )
 }

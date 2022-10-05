@@ -1,5 +1,6 @@
 import Link from "next/link";
-function Rodape(){
+
+export default function rodape(){
     return(
         <>
             <Link href="http://www.google.com">Google</Link>
