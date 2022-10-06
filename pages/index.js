@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
      <Topo/>
-     <h3>pagina inicial</h3>
+     <h3>esta é a pagina inicial</h3>
      <Rodape/>
     </>
   )
